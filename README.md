@@ -5,10 +5,10 @@ This repo contains the work I did while going through Udacity's [Data Analyst Na
 - tmdb_movies
 - ab_test
 
-Most of the work here has been done in Jupiter notebooks.
+All of the work here has been done in Jupiter notebooks.
 
 The directories marked "\_playground" have generally just been for trying out different packages in the python data ecosystem and are generally much more poorly documented.
 
 ## TODO
 
-Create a list of resources gathered during the course that helped with understanding core topics
+- Create a list of resources gathered during the course that helped with understanding core topics
